@@ -26,6 +26,7 @@ Para isso substitua onde está Module_Skeleton ou Module\Skeleton para o de seu 
 ## Quais arquivos devo alterar ?
 
 Os arquivos citados na instalação são:
+- Identifier.php (Arquivo que é a Classe Sobrescrita para correção do problema encontrado)
 - module.xml
 - registration.xml
 - di.xml (onde está  type="Module\Skeleton\SSL\Identifier" altere para o caminho de seu uso.)
